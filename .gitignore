@@ -9,7 +9,3 @@ admin/certificados/*.pem
 admin/uploads/*.xml
 _test_*.php
 admin/classes/config_emision.json
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
